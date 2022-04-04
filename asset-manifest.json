@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.502d0a39.css",
-    "main.js": "/react-gh-pages/static/js/main.471e07af.js",
-    "static/js/787.016dd43c.chunk.js": "/react-gh-pages/static/js/787.016dd43c.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.502d0a39.css.map": "/react-gh-pages/static/css/main.502d0a39.css.map",
-    "main.471e07af.js.map": "/react-gh-pages/static/js/main.471e07af.js.map",
-    "787.016dd43c.chunk.js.map": "/react-gh-pages/static/js/787.016dd43c.chunk.js.map"
+    "main.css": "/Ethyria6moAnniv-React/static/css/main.502d0a39.css",
+    "main.js": "/Ethyria6moAnniv-React/static/js/main.ee802a21.js",
+    "static/js/787.c1b0fcec.chunk.js": "/Ethyria6moAnniv-React/static/js/787.c1b0fcec.chunk.js",
+    "static/media/logo.svg": "/Ethyria6moAnniv-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ethyria6moAnniv-React/index.html",
+    "main.502d0a39.css.map": "/Ethyria6moAnniv-React/static/css/main.502d0a39.css.map",
+    "main.ee802a21.js.map": "/Ethyria6moAnniv-React/static/js/main.ee802a21.js.map",
+    "787.c1b0fcec.chunk.js.map": "/Ethyria6moAnniv-React/static/js/787.c1b0fcec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.502d0a39.css",
-    "static/js/main.471e07af.js"
+    "static/js/main.ee802a21.js"
   ]
 }

@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/Ethyria6moAnniv-React/static/css/main.502d0a39.css",
-    "main.js": "/Ethyria6moAnniv-React/static/js/main.ee802a21.js",
-    "static/js/787.c1b0fcec.chunk.js": "/Ethyria6moAnniv-React/static/js/787.c1b0fcec.chunk.js",
-    "static/media/logo.svg": "/Ethyria6moAnniv-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Ethyria6moAnniv-React/static/css/main.3f16e599.css",
+    "main.js": "/Ethyria6moAnniv-React/static/js/main.65970331.js",
+    "static/js/787.ff33ad14.chunk.js": "/Ethyria6moAnniv-React/static/js/787.ff33ad14.chunk.js",
+    "static/media/nina.jpg": "/Ethyria6moAnniv-React/static/media/nina.5a0f12eb83bdc8fe7dc2.jpg",
+    "static/media/enna.jpg": "/Ethyria6moAnniv-React/static/media/enna.64e97cadf561b1506a2d.jpg",
+    "static/media/ethyria_text.jpg": "/Ethyria6moAnniv-React/static/media/ethyria_text.6e5df9f79b61ac5ad55e.jpg",
+    "static/media/reimu.jpg": "/Ethyria6moAnniv-React/static/media/reimu.6bac4d216766af0c20a2.jpg",
+    "static/media/millie.jpg": "/Ethyria6moAnniv-React/static/media/millie.463b24918b23dd05fcb9.jpg",
     "index.html": "/Ethyria6moAnniv-React/index.html",
-    "main.502d0a39.css.map": "/Ethyria6moAnniv-React/static/css/main.502d0a39.css.map",
-    "main.ee802a21.js.map": "/Ethyria6moAnniv-React/static/js/main.ee802a21.js.map",
-    "787.c1b0fcec.chunk.js.map": "/Ethyria6moAnniv-React/static/js/787.c1b0fcec.chunk.js.map"
+    "main.3f16e599.css.map": "/Ethyria6moAnniv-React/static/css/main.3f16e599.css.map",
+    "main.65970331.js.map": "/Ethyria6moAnniv-React/static/js/main.65970331.js.map",
+    "787.ff33ad14.chunk.js.map": "/Ethyria6moAnniv-React/static/js/787.ff33ad14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.502d0a39.css",
-    "static/js/main.ee802a21.js"
+    "static/css/main.3f16e599.css",
+    "static/js/main.65970331.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
-    "name": "Ethyria6moAnniv-React",
+    "name": "alphabud75.github.io",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://alphabud75.github.io/Ethyria6moAnniv-React",
+    "homepage": "https://github.com/AlphaBud75/alphabud75.github.io",
     "dependencies": {
         "@babel/core": "^7.16.0",
         "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",

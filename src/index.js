@@ -1,15 +1,18 @@
-import React from "react";
-import ReactDOM from "react-dom";
-// import './index.css';
-// import App from './App';
-import "./LandingPage/LandingPage.css";
-import LandingPage from "./LandingPage/LandingPage";
 import reportWebVitals from "./reportWebVitals";
 
+import ReactDOM from "react-dom";
+import React from "react";
+
+import LandingPage from "./LandingPage/LandingPage";
+// import "./LandingPage/LandingPage.css";
+
+import {BrowserRouter} from 'react-router-dom'
+
+
 ReactDOM.render(
-  <React.StrictMode>
+  <BrowserRouter>
     <LandingPage />
-  </React.StrictMode>,
+  </BrowserRouter>,
   document.getElementById("root")
 );
 

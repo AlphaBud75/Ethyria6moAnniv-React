@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AlphaBud75/alphabud75.github.io/static/css/main.d84f1f16.css",
-    "main.js": "/AlphaBud75/alphabud75.github.io/static/js/main.b39c6c7a.js",
-    "static/js/787.86013cf2.chunk.js": "/AlphaBud75/alphabud75.github.io/static/js/787.86013cf2.chunk.js",
-    "static/media/nina.jpg": "/AlphaBud75/alphabud75.github.io/static/media/nina.5a0f12eb83bdc8fe7dc2.jpg",
-    "static/media/enna.jpg": "/AlphaBud75/alphabud75.github.io/static/media/enna.64e97cadf561b1506a2d.jpg",
-    "static/media/ethyria_text.jpg": "/AlphaBud75/alphabud75.github.io/static/media/ethyria_text.6e5df9f79b61ac5ad55e.jpg",
-    "static/media/reimu.jpg": "/AlphaBud75/alphabud75.github.io/static/media/reimu.6bac4d216766af0c20a2.jpg",
-    "static/media/millie.jpg": "/AlphaBud75/alphabud75.github.io/static/media/millie.463b24918b23dd05fcb9.jpg",
-    "index.html": "/AlphaBud75/alphabud75.github.io/index.html",
-    "main.d84f1f16.css.map": "/AlphaBud75/alphabud75.github.io/static/css/main.d84f1f16.css.map",
-    "main.b39c6c7a.js.map": "/AlphaBud75/alphabud75.github.io/static/js/main.b39c6c7a.js.map",
-    "787.86013cf2.chunk.js.map": "/AlphaBud75/alphabud75.github.io/static/js/787.86013cf2.chunk.js.map"
+    "main.css": "/Ethyria6moAnniv-React/static/css/main.d84f1f16.css",
+    "main.js": "/Ethyria6moAnniv-React/static/js/main.635f6ff4.js",
+    "static/js/787.ff33ad14.chunk.js": "/Ethyria6moAnniv-React/static/js/787.ff33ad14.chunk.js",
+    "static/media/nina.jpg": "/Ethyria6moAnniv-React/static/media/nina.5a0f12eb83bdc8fe7dc2.jpg",
+    "static/media/enna.jpg": "/Ethyria6moAnniv-React/static/media/enna.64e97cadf561b1506a2d.jpg",
+    "static/media/ethyria_text.jpg": "/Ethyria6moAnniv-React/static/media/ethyria_text.6e5df9f79b61ac5ad55e.jpg",
+    "static/media/reimu.jpg": "/Ethyria6moAnniv-React/static/media/reimu.6bac4d216766af0c20a2.jpg",
+    "static/media/millie.jpg": "/Ethyria6moAnniv-React/static/media/millie.463b24918b23dd05fcb9.jpg",
+    "index.html": "/Ethyria6moAnniv-React/index.html",
+    "main.d84f1f16.css.map": "/Ethyria6moAnniv-React/static/css/main.d84f1f16.css.map",
+    "main.635f6ff4.js.map": "/Ethyria6moAnniv-React/static/js/main.635f6ff4.js.map",
+    "787.ff33ad14.chunk.js.map": "/Ethyria6moAnniv-React/static/js/787.ff33ad14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d84f1f16.css",
-    "static/js/main.b39c6c7a.js"
+    "static/js/main.635f6ff4.js"
   ]
 }

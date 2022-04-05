@@ -9,40 +9,39 @@ import SiteNina from "../pages/Site_Nina";
 import SiteReimu from "../pages/Site_Reimu";
 
 export default function LandingPage() {
+  const path_fixed = "/Ethyria6moAnniv-React";
   const names = {
-    e: "EnnaAlouette",
-    m: "MillieParfait",
-    n: "NinaKosaka",
-    r: "ReimuEndou",
+    e: "/EnnaAlouette",
+    m: "/MillieParfait",
+    n: "/NinaKosaka",
+    r: "/ReimuEndou",
   };
 
   return (
     <div>
-      {window.location.pathname === "/" && (
+      {window.location.pathname === path_fixed && (
         <div className="container">
           <div className="subcontainer">
             <Link
-              to={"/" + names["e"]}
+              to={path_fixed + names["e"]}
               target="_blank"
               rel="noopener noreferrer"
             >
               <img id="enna" src={require("./img/enna.jpg")} alt="enna.jpg" />
             </Link>
           </div>
-
           <div className="subcontainer">
             <Link
-              to={"/" + names["n"]}
+              to={path_fixed + names["n"]}
               target="_blank"
               rel="noopener noreferrer"
             >
               <img id="nina" src={require("./img/nina.jpg")} alt="nina.jpg" />
             </Link>
           </div>
-
           <div className="subcontainer">
             <Link
-              to={"/" + names["r"]}
+              to={path_fixed + names["r"]}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -53,10 +52,9 @@ export default function LandingPage() {
               />
             </Link>
           </div>
-
           <div className="subcontainer">
             <Link
-              to={"./" + names["m"]}
+              to={path_fixed + names["m"]}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -77,23 +75,28 @@ export default function LandingPage() {
         </div>
       )}
       <Switch>
-        {/* <Route path="/EnnaAlouette"> */}
-        <Route exact path={["/e", "/E", "/" + names["e"]]}>
+        <Route
+          exact
+          path={[path_fixed + "/e", path_fixed + "/E", path_fixed + names["e"]]}
+        >
           <SiteEnna />
         </Route>
-
-        {/* <Route exact path={["/Mi, "", names[]]}llieParfait"> */}
-        <Route exact path={["/m", "/M", "/" + names["m"]]}>
+        <Route
+          exact
+          path={[path_fixed + "/m", path_fixed + "/M", path_fixed + names["m"]]}
+        >
           <SiteMillie />
         </Route>
-
-        {/* <Route exact path={["/Ni, "", names[]]}naKosaka"> */}
-        <Route exact path={["/n", "/N", "/" + names["n"]]}>
+        <Route
+          exact
+          path={[path_fixed + "/n", path_fixed + "/N", path_fixed + names["n"]]}
+        >
           <SiteNina />
         </Route>
-
-        {/* <Route exact path={["/Re, "", names[]]}imuEndou"> */}
-        <Route exact path={["/r", "/R", "/" + names["r"]]}>
+        <Route
+          exact
+          path={[path_fixed + "/r", path_fixed + "/R", path_fixed + names["r"]]}
+        >
           <SiteReimu />
         </Route>
       </Switch>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ethyria6moAnniv-React/static/css/main.d84f1f16.css",
-    "main.js": "/Ethyria6moAnniv-React/static/js/main.ca810e2d.js",
+    "main.js": "/Ethyria6moAnniv-React/static/js/main.e8fcc88a.js",
     "static/js/787.ff33ad14.chunk.js": "/Ethyria6moAnniv-React/static/js/787.ff33ad14.chunk.js",
     "static/media/nina.jpg": "/Ethyria6moAnniv-React/static/media/nina.5a0f12eb83bdc8fe7dc2.jpg",
     "static/media/enna.jpg": "/Ethyria6moAnniv-React/static/media/enna.64e97cadf561b1506a2d.jpg",
@@ -10,11 +10,11 @@
     "static/media/millie.jpg": "/Ethyria6moAnniv-React/static/media/millie.463b24918b23dd05fcb9.jpg",
     "index.html": "/Ethyria6moAnniv-React/index.html",
     "main.d84f1f16.css.map": "/Ethyria6moAnniv-React/static/css/main.d84f1f16.css.map",
-    "main.ca810e2d.js.map": "/Ethyria6moAnniv-React/static/js/main.ca810e2d.js.map",
+    "main.e8fcc88a.js.map": "/Ethyria6moAnniv-React/static/js/main.e8fcc88a.js.map",
     "787.ff33ad14.chunk.js.map": "/Ethyria6moAnniv-React/static/js/787.ff33ad14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d84f1f16.css",
-    "static/js/main.ca810e2d.js"
+    "static/js/main.e8fcc88a.js"
   ]
 }
